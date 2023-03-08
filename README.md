@@ -22,6 +22,7 @@
 
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasim86&show_icons=true&locale=en" alt="wasim86" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wasim86&theme=radical&hide_border=true)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

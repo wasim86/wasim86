@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # 💫 About Me:
 • 🔭 I’m currently working on Fullstack Development Projects.<br>• 🌱 I’m currently learning Data Structure & Algorithm.<br>• 👯 I’m looking to collaborate on great companies.<br>• 🌱 I’m MERN stack developer.<br>• 📫 How to reach me mohdwasim1996@gamil.com<br>• ⚡ Fun fact I am too curious.
@@ -17,10 +17,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=wasim86&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

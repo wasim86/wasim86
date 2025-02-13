@@ -9,7 +9,7 @@
 • 🌱 I’m currently learning Data Structure & Algorithm.<br>
 • 👯 I’m looking to collaborate on great companies.<br>
 • 🌱 I’m MERN stack developer.<br>
-• 📫 How to reach me mohdwasim1996@gamil.com<br>
+• 📫 How to reach me mohdwasim1996@gmail.com<br>
 • ⚡ Fun fact I am too curious.
 
 <h3 align="left">Connect with me:</h3>
